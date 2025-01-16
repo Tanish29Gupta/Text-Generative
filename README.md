@@ -57,3 +57,10 @@ pip install -r requirements.txt
 
 ## Result
 The model achieves 91.96% accuracy on validation data and generates coherent Medium article titles based on input sequences. The use of Bidirectional LSTMs significantly enhances context understanding.
+
+## Contributing
+Contributions are welcome! Feel free to submit issues or pull requests to improve this repository.
+
+## License
+This project is licensed under the MIT License.
+
